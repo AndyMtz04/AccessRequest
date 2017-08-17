@@ -1,14 +1,14 @@
 # Access Request to ServiceNow
 
-A script that takes access request tasks and creates ServiceNow tickets.
+Python automation tool automates the creation of ServiceNow tickets from internal access request tasks by utilizing the ServiceNow API
 
-# Download Source Code
+## Download Source Code
 
 To downlaod the source code, use the following command.
 
 ```git clone git@github.com:AndyMtz04/access_request.git```
 
-# Installation
+## Installation
 
 The script is only compatible with Python 3.x and only uses one module. 
 
